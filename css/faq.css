@@ -1,0 +1,31 @@
+.somequs h5{
+    margin-bottom: 10px;
+    padding: 18px 5px 25px 16px;
+    color: #22C4B0;
+	background-color: #E9EBEC;
+}
+.somequs p{
+	font-size: 23px;
+    line-height: 20px;
+	color:#34A853;
+	padding-left: 10px;
+
+}
+.someans h5{
+    margin-bottom: 10px;
+    padding-left: 15px;
+    color: black;
+}
+.someans p{
+	font-size: 17px;
+    line-height: 20px;
+	color:red;
+	padding-left: 15px;
+
+}
+.service-heading h3{
+	font-size: 20px;
+    line-height: 20px;
+	color:#22C4B0;
+}
+
